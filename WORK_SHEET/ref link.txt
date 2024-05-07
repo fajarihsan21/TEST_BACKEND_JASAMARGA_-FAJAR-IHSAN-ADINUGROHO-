@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/68637265/how-can-i-add-enum-in-gorm
+https://momentjs.com/docs/#/parsing/
+https://www.timescale.com/learn/postgresql-date-and-time-functions
